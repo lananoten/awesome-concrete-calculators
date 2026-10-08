@@ -1,23 +1,21 @@
-# Awesome Concrete Calculators
+# Concrete Calculators & Guides
 
-A curated list of free concrete calculators, bag/yield guides, project quick-references, and volume formulas — for DIYers, contractors, and estimators.
+The complete free ConcreteCalcus toolkit — every calculator, guide, and formula in one place. 30 free tools, zero signup, zero ads.
 
-## Online Calculators
+## Start Here
 
-| Calculator | What it covers |
-|---|---|
-| [ConcreteCalcus](https://concretecalcus.com/) | Free suite of 30 tools: slabs, footings, post holes, walls, columns, stairs, bag counts, rebar, block, gravel, and full cost estimation. No signup. |
-| [ConcreteCalcus Slab Calculator](https://concretecalcus.com/slab/24x24/) | Rectangular slab volume in cubic yards/feet/meters, with waste buffer, rebar grid, saw-cut joints, and gravel subbase estimates. |
-| [Inch Calculator — Concrete](https://www.inchcalculator.com/concrete-calculator/) | Slab, footing, post-hole, driveway, steps, and block calculators with detailed methodology notes. |
-| [Concrete Network Calculator](http://www.concretenetwork.com/concrete/howmuch/calculator.htm) | Long-standing industry calculator for slabs and footings. |
-| [Calculator.net — Concrete](https://www.calculator.net/concrete-calculator.html) | General-purpose volume calculator with slab, footing, wall, and column presets. |
-| [Quikrete Calculator](https://www.quikrete.com/Calculator/) | Manufacturer calculator focused on bag counts (40/60/80 lb) for slabs, footings, and post holes. |
+- [All 30 Concrete Calculators](https://concretecalcus.com/calculators/) — the full directory: slabs, footings, post holes, walls, columns, stairs, rebar, block, gravel, truck loads, excavation, and cost estimators.
+- [ConcreteCalcus Home](https://concretecalcus.com/) — the main hub with popular tools and how-to guides.
 
-## Bag Sizes & Yield Guides
+## Volume Calculators
 
-| Guide | What it covers |
-|---|---|
-| [ConcreteCalcus Bag Guide](https://concretecalcus.com/bags/) | Yield per bag size (40/50/60/80 lb), bags-per-yard tables, and a custom bag-count calculator including fractional bags. |
+- [Slab Calculator](https://concretecalcus.com/slab/24x24/) — rectangular slabs, patios, sidewalks, driveways, and garage floors in cubic yards, feet, and meters. Includes waste buffer, rebar grid, saw-cut joint layout, and gravel subbase estimates. Interactive — enter any dimensions.
+- [Cubic Yard Calculator](https://concretecalcus.com/concrete-yard-calculator/) — quick cubic-yard math with truck-load counts and ready-mix cost estimates.
+- [Triangle Calculator](https://concretecalcus.com/concrete-triangle-calculator/) — triangular slabs, wedge pads, and corner pours: volume, surface area, and perimeter formwork.
+
+## Bags & Materials
+
+- [Bag Sizes & Yield Guide](https://concretecalcus.com/bags/) — yield per bag size (40/50/60/80 lb), bags-per-yard tables, and a custom bag-count calculator including fractional bags.
 
 **Bag yields (per cubic foot of mixed concrete):**
 
@@ -79,7 +77,7 @@ A dependency-free, single-file version of the slab/post-hole/footing/wall calcul
 
 ## Contributing
 
-Suggestions welcome — open a PR with a free, working concrete calculator or estimating resource.
+Suggestions welcome — open a PR with ideas for new calculators or guides.
 
 ## License
 
